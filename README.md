@@ -1,3 +1,3 @@
 # file_conversion
 
-**Some tools working with files**
+**Some tools for working with files**
